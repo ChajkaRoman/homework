@@ -1,0 +1,19 @@
+
+.otstup {
+margin: 0px 260px 0 260px;
+}
+.otstup2 {
+margin: 15px 260px 0 295px;
+}
+.center {
+ text-align: center; /* Выравнивание по центру */
+}
+.box1 {
+ width: 1020px;
+ height: 1020px;
+}
+.line {
+   border-top: 2px solid #ccc; /* Параметры линии */
+   margin-top: 20px; /* Отступ слева */
+   padding-top: 10px; /* Расстояние от линии до текста */
+}
