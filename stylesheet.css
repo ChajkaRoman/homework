@@ -1,35 +1,22 @@
 
-h2{
-font-family: arial, sans-serif;
-font-size: 20px;
-line-height: 30px;
-}
-
 .otstup {
-margin: 0px 260px 0 260px;
+   margin: 0px 260px 0 260px;
 }
 .otstup2 {
-margin: 0px 260px 0 295px;
+   margin: 15px 260px 0 295px;
 }
-.fig {
- text-align: center; /* Выравнивание по центру */
+.center {
+   text-align: center; /* Выравнивание по центру */
 }
 .box1 {
- width: 1020px;
- height: 1020px;
- /*margin-top: 0px;
- margin-right: 210px;
- margin-bottom: 0px;
- margin-left: 210px;
- padding-top: 50px;
- padding-right: 50px;
- padding-bottom: 50px;
- padding-left: 50px;
- border: 1px solid grey;
- /* Выравнивание по центру */
+   width: 1020px;
+   height: 1020px;
 }
 .line {
-   border-top: 2px solid #ccc; /* Параметры линии */
-   margin-top: 20px; /* Отступ слева */
+   border-top: 1px solid #ccc; /* Параметры линии */
+   margin-top: 20px; /* Отступ */
    padding-top: 10px; /* Расстояние от линии до текста */
+}
+.uppercase {
+    text-transform: uppercase;
 }
